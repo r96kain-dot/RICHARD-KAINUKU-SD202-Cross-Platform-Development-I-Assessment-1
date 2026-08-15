@@ -1,0 +1,5 @@
+ID: 20241001, Name: Ali Super Lane, Campus: Christchurch, Mode: Full-time, Email: alisuper_lane@yoobeecolleges.com
+ID: 20241002, Name: Adijah Smith, Campus: Wellington, Mode: Part-time, Email: adijah_smith@yoobeecolleges.com
+ID: 20251003, Name: Eilar Brown, Campus: Auckland, Mode: Full-time, Email: eilar_brown@yoobeecolleges.com
+ID: 20251004, Name: Alice Taylor, Campus: Hamilton, Mode: Part-time, Email: alice_taylor@yoobeecolleges.com
+ID: 20031005, Name: Gustavo Oliveira, Campus: Dunedin, Mode: Online, Email: gustavo_oliveira@yoobeecolleges.com

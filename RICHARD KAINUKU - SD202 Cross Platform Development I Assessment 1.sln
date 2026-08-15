@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RICHARD KAINUKU - SD202 Cross Platform Development I Assessment 1", "RICHARD KAINUKU - SD202 Cross Platform Development I Assessment 1.pyproj", "{92CBB459-BD6A-41E1-9B2C-C00B01C0DA86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92CBB459-BD6A-41E1-9B2C-C00B01C0DA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CBB459-BD6A-41E1-9B2C-C00B01C0DA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C854D34-56A3-499D-8B37-B84BD1847A01}
+	EndGlobalSection
+EndGlobal
